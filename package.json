@@ -1,0 +1,17 @@
+{
+  "author": "Zed Gu <heartcpu@gmail.com> (http://zedview.com)",
+  "name": "topsdk",
+  "description": "Taobao TOP API Node SDK",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zedgu/node-topsdk.git"
+  },
+  "main": "topsdk.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
