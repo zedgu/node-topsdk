@@ -1,6 +1,5 @@
 # Taobao TOP API Node SDK (3nd Party)
-
-	淘宝开放平台 API Node SDK（第三方）
+淘宝开放平台 API Node SDK（第三方）
 ===
 
 ## Features / 功能
