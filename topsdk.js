@@ -49,7 +49,7 @@ TopSDK.prototype.generateSign = function(params) {
 		stringToBeSigned += key + params[key];
 	}
 	stringToBeSigned += this.secretkey;
-	hash.update(stringToBeSigned);
+	hash.update(stringToBeSigned, 'utf-8');
 	this.sign = hash.digest('hex').toUpperCase();
 	return this.sign;
 };
